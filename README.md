@@ -5,7 +5,8 @@ Certainly! Below is a simple example of a `README.md` file for an expense tracke
 
 ## Overview
 
-Expense Tracker is a web application that helps you manage and track your expenses. It allows you to add, edit, and delete expenses, categorize them, and view your spending history.
+Expense Tracker is a web application that helps you manage and track your expenses.
+It allows you to add, edit, and delete expenses, categorize them, and view your spending history.
 
 ## Features
 
